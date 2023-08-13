@@ -282,50 +282,9 @@ shapes{
 	clip-path: polygon( 50% 0, 100% 38%, 81% 100%, 19% 100%, 0 38%);
 }
 
-#form-section{
-    margin: 60px auto;
-}
-
-.form-container{
-    display: flex;
-    justify-content: center;
-}
-
-form{
-    max-width: 180px;
-}
-
-input{
- border-color: transparent transparent #000 transparent;
- margin-top: 20px;
- color: #000;
- font-weight: bold;
-}
- ::placeholder{
-    color: #000;
-}
-
-#form-section h2{
-    text-align: center;
-    font-size: 30px;
-}
-
-.btn-3{
- display: inline-block;
- margin-left: 45px;
-  padding: 10px 15px;
-  background: var(--red);
-  margin-top: 20px;
-  border-radius: 15px;
-  color: var(--white);
-  font-size: 16px;
-  border: none;
-}
 
 
 
-
- 
 
 
 
@@ -519,6 +478,8 @@ input{
         flex-direction: column;
     }
 }
+
+
 
 
 

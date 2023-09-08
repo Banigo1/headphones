@@ -49,9 +49,7 @@ body {
 
 
     header{
-        background-image: url(headphones_hero_1.jpg);
-        background-size: cover;
-        background-position: center;
+        background-color: #faf0e6;
         height: 100vh;
     }
 
